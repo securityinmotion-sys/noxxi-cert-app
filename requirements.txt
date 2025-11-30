@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+langchain-openai
+chromadb
+jinja2
+weasyprint
+python-docx
+pandas
